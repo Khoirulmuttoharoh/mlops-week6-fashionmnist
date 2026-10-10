@@ -1,0 +1,8 @@
+# Nilai awal baseline. Eksperimen tuning dapat mengubah parameter ini.
+seed: 42
+epochs: 5
+batch_size: 128
+learning_rate: 0.001
+dropout: 0.25
+augmentation: false
+optimizer: adam

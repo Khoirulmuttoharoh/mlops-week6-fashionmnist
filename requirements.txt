@@ -1,0 +1,8 @@
+torch
+torchvision
+mlflow>=3.0
+optuna
+dvc
+scikit-learn
+numpy
+matplotlib
