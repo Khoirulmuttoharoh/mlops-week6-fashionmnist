@@ -1,0 +1,16 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+mlruns/
+mlartifacts/
+mlflow.db
+
+
+/data/*
+!/data/raw.dvc
+!/data/dataset_manifest.json
+
+
+outputs/
+.DS_Store
